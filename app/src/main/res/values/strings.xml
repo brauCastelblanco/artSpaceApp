@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">artSpaceApp</string>
+    <string name="pic1">Beautiful View of Mountains and Water in Tolima, Colombia</string>
+    <string name="pic2">Facade of the Primatial Cathedral of Bogota</string>
+    <string name="pic3">Purple Flowers of a Tree in Front of the Store</string>
+    <string name="pic1_author">Diego Gonzalez, (2021)</string>
+    <string name="pic2_author">Gustavo Solmott</string>
+    <string name="pic3_author">Nubia Navarro</string>
+</resources>
