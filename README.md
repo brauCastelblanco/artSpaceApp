@@ -4,3 +4,7 @@ The images use here are the following:
 - Gustavo Solmott: https://www.pexels.com/photo/facade-of-the-primatial-cathedral-of-bogota-colombia-16808476/
 - Nubia Navarro: https://www.pexels.com/photo/purple-flowers-of-a-tree-in-front-of-the-store-6381088/
 - Diego Gonzalez: https://www.pexels.com/photo/beautiful-view-of-mountains-and-water-in-tolima-colombia-13360379/
+
+
+
+![image](https://github.com/brauCastelblanco/artSpaceApp/assets/77630984/f9045fbb-ccc5-4d06-911a-9688b646b379)
